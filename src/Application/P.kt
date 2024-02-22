@@ -1,0 +1,4 @@
+package Application
+
+class P {
+}
